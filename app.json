@@ -1,6 +1,6 @@
 {
-  "name": "Cards Against Humanity API",
-  "description": "A Node.js API for the Cards Against Humanity game",
-  "keywords": ["node", "api"],
-  "repository": "https://github.com/vdel26/cah-node-api"
+  "name": "Devops Against Humanity API",
+  "description": "A Node.js API for the Devops Against Humanity cards (https://github.com/bridgetkromhout/devops-against-humanity)",
+  "keywords": ["node", "api", "devops", "cah"],
+  "repository": "https://github.com/vdel26/devops-against-humanity-api"
 }
