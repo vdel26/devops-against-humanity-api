@@ -25,10 +25,8 @@ const server = http.createServer((req, res) => {
                /pick - get a question and answer randomly chosen`);
 
   return res.end();
-
 });
 
 const port = parseInt(process.env.PORT, 10) || 5000;
 server.listen(port);
 console.log(`Listening at port ${port}`);
-
