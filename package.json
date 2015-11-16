@@ -1,13 +1,12 @@
 {
   "name": "devops-against-humanity-api",
   "version": "1.0.0",
-  "description": "## Deploy it in your own Heroku app [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)",
+  "description": "Devops Against Humanity API",
   "main": "./lib/index.js",
   "scripts": {
     "prestart": "npm build",
     "start": "node ./lib/index.js",
-    "build": "make",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "make"
   },
   "keywords": [
     "node",
