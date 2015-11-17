@@ -1,5 +1,4 @@
 export const questions = [
-  "Black Cards (direct question or fill-in-the-blank statement with one blank or two)",
   "...and then there was the time I found _____ on the root partition.",
   "140 characters is just enough to explain _____.",
   "_____ - the idiot's guide to _____ and _____.",
@@ -122,7 +121,6 @@ export const questions = [
 
 
 export const answers = [
-  "White Cards (noun or gerund - single word or phrase)",
   "/var/log symlinked to /dev/null",
   "10,000 Nagios alerts per second",
   "3-hour standups",
